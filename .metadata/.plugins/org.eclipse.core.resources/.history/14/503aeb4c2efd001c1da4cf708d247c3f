@@ -1,0 +1,14 @@
+
+import java.util.Scanner;
+
+public class HomemMulheres {
+	public static void main(String[] args) {
+		 
+		
+		//variaveis 
+		int sexo, qtMulheres, qthomens;
+		
+		float altura, soma,mediaHomens, maior, menor;
+	}
+
+}

@@ -1,0 +1,23 @@
+
+public class Cavalo {
+	public static void main(String[] args) {
+		
+		double  m, h, t, cavalos;
+		//massa
+		m = 1000;
+		
+		//altura
+		h = 4.5;
+		
+		//tempo
+		t = 9;
+		
+		//calculo
+		
+		cavalos = (m * h / t)/ 745.6999;
+		
+		System.out.println("A quantidade de cavalos necessaria será de: " + cavalos);
+		
+	}
+
+}

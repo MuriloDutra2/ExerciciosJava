@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\megaf\OneDrive\Área de Trabalho\ProgramaçaoMurilo\exercicios java\.metadata\.plugins\org.eclipse.jdt.core
+1517481139.index
+1865797976.index
+1167275426.index

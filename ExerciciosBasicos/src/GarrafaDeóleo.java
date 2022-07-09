@@ -1,0 +1,21 @@
+
+public class GarrafaDeóleo {
+	public static void main(String[] args) {
+		double V, R, A;
+	
+		//não soube o que colocar, então coloquei igual na resolução;
+		
+		//Raio
+		R = 3.2;
+		
+		//altura
+		A = 4.9;
+		
+		//formula: 
+		
+		V =  3.14159 * R * R * A;
+		
+		System.out.println("O volume encontrado é de " + V + " m³");
+	}
+
+}

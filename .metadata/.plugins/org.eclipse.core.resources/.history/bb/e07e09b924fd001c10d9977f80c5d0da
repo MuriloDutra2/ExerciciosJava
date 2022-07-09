@@ -1,0 +1,17 @@
+
+public class Temperatura {
+	
+	public static void main(String[] args) {
+		
+		double C, F, K, Re, Ra;
+		C = 2.43;
+		
+		// Fahrenheit 
+		F = C * 1.8 + 32;
+			System.out.println("A temperatura = "+ C + "Em celsius, é equivalente à " + F + "em Fahrenheit " );
+		
+		
+	}
+	
+
+}
